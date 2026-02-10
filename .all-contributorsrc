@@ -1,0 +1,202 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "link-discord",
+      "name": "Link",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50463727?v=4",
+      "profile": "https://github.com/link-discord",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Emgimeer-Bazder",
+      "name": "Emgimeer-Bazder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17608446?v=4",
+      "profile": "http://www.pazder.ca",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "GavriloviciEduard",
+      "name": "Gavrilovici Eduard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33176335?v=4",
+      "profile": "https://github.com/GavriloviciEduard",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "Nyantad",
+      "name": "Nyantad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68382673?v=4",
+      "profile": "https://github.com/Nyantad",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "OwenKruse",
+      "name": "OwenKruse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91492770?v=4",
+      "profile": "https://github.com/OwenKruse",
+      "contributions": [
+        "doc",
+        "data",
+        "code",
+        "example"
+      ]
+    },
+    {
+      "login": "marmig0404",
+      "name": "Martin Miglio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10036276?v=4",
+      "profile": "http://martinmiglio.dev/?utm_source=github_bio&utm_medium=Social",
+      "contributions": [
+        "code",
+        "doc",
+        "a11y",
+        "example",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "ankushsethi",
+      "name": "Ankush Sethi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22005886?v=4",
+      "profile": "https://github.com/ankushsethi",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "adl212",
+      "name": "adl212",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64753570?v=4",
+      "profile": "https://github.com/adl212",
+      "contributions": [
+        "bug",
+        "data"
+      ]
+    },
+    {
+      "login": "Chi-EEE",
+      "name": "Chi Huu Huynh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73843190?v=4",
+      "profile": "https://github.com/Chi-EEE",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "hexiro",
+      "name": "nathan lodge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42787085?v=4",
+      "profile": "https://hexiro.me",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "BassCoder2808",
+      "name": "Vedant Jolly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65075935?v=4",
+      "profile": "http://basscoder2808.github.io/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "HorridModz",
+      "name": "HorridModz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105762560?v=4",
+      "profile": "https://gameguardian.net/forum/profile/1234241-horridmodz/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "BjornGrylls",
+      "name": "BjornGrylls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35100000?v=4",
+      "profile": "https://github.com/BjornGrylls",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "IIgorrrrr",
+      "name": "Iiro Heinonen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103566403?v=4",
+      "profile": "https://github.com/IIgorrrrr",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "carlos-dubon",
+      "name": "Carlos Dubón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69093659?v=4",
+      "profile": "http://carlosdubon.dev",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Leviaria",
+      "name": "Leviaria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113382526?v=4",
+      "profile": "https://github.com/Leviaria",
+      "contributions": [
+        "code",
+        "example",
+        "tutorial",
+        "doc"
+      ]
+    },
+    {
+      "login": "nikita9091239",
+      "name": "nikita9091239",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83181206?v=4",
+      "profile": "https://github.com/nikita9091239",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "FikryCoder",
+      "name": "Fikry 🎯",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111184562?v=4",
+      "profile": "https://github.com/FikryCoder",
+      "contributions": [
+        "research"
+      ]
+    },
+    {
+      "login": "EnderBenjy",
+      "name": "EnderBenjy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68610598?v=4",
+      "profile": "https://github.com/EnderBenjy",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ClashRoyaleBuildABot",
+  "projectOwner": "Pbatch",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}
